@@ -10,7 +10,7 @@ const Expenses = (props) => {
 
     const expenseItems = props.expenses.map(expense => {
         return (
-            <ExpenseItem key={Math.random() * 1000} title={expense.title} amount={expense.amount} date={expense.date} />
+            <ExpenseItem key={expense.id} title={expense.title} amount={expense.amount} date={expense.date} />
         );
     });
 
