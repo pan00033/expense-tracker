@@ -1,10 +1,11 @@
 # Expense Tracker
 
-Utilized the React library, importing and exporting components, props, HTML5, CSS3 and more to achieve a fully functioning "Expense Tracker".
+Utilized the React library, importing and exporting components, props, JavaScript, HTML5, CSS3 and more to achieve a fully functioning "Expense Tracker".
 
 # Tech Stack
 
-* React
+* ReactJS
+* JavaScript
 * JSX
 * HTML5&CSS3
 
